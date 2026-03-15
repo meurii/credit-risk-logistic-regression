@@ -1,12 +1,13 @@
 # Análise de Risco de Crédito com Regressão Logística
 
-Projeto que aplica regressão logística para prever inadimplência em uma carteira de crédito.
+Projeto desenvolvido durante a Residência em Ciência de Dados do CEPEDI, 
+aplicando regressão logística para prever inadimplência em uma carteira de crédito.
 
 ## Sobre o projeto
 O dataset utilizado é o [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) do Kaggle.
 
 O notebook cobre desde limpeza e análise exploratória até modelagem com pipeline, interpretabilidade com SHAP e
-análise de limiar de decisão,com foco em métricas adequadas para datasets desbalanceados (AUC-ROC, Precision-Recall)
+análise de limiar de decisão, com foco em métricas adequadas para datasets desbalanceados (AUC-ROC, Precision-Recall)
 e conclusões orientadas ao negócio.
 
 ## Estrutura
